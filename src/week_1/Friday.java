@@ -7,4 +7,6 @@ public class Friday {
 
     //some line
     //more line
+    //git git git
+    //gel gel gel
 }

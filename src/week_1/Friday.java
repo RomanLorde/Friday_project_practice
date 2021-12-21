@@ -9,5 +9,7 @@ public class Friday {
         //some line
         //more line
         System.out.println("Hi everyone");
+        System.out.println("some practice");
+
     }
 }
